@@ -90,7 +90,8 @@ la couleur supplémentaire lorsqu'un utilisateur survole une carte.*/
 #about,
 #services,
 #portfolio,
-#contact {
+#contact,
+#CV{
     margin-top: 4rem;
     padding-top: 4rem;
 }
